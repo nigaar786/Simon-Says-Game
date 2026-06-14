@@ -65,8 +65,9 @@ The game challenges users to remember and repeat an increasing sequence of color
 - Add sound effects 
 - Add mobile responsiveness 
 - Add restart button
+  
 ---
 
 ##  Author
 
-Nigaar Fatma 
+Nigaar Fatma
